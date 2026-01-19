@@ -1,6 +1,6 @@
 Hi, I'm Simon 👋
 
-I'm a data analyst with a background in systems management and an interest in ML technologies.
+I'm a data analyst with a background in systems management and an interest in machine learning.
 
 Here's some recent stuff I've been working on:
 
