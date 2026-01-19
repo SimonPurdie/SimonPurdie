@@ -11,5 +11,3 @@ Here's some recent stuff I've been working on:
 **Personal Projects:**
 - **[cuniculus](https://github.com/SimonPurdie/cuniculus)** - Python cleanup tool for "vibecode" with automated fixes and review reports.
 - **[Miyori](https://github.com/SimonPurdie/Miyori)** - An experimental LLM harness with components built from scratch to explore modern agentic AI techniques.
-
----
